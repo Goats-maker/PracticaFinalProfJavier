@@ -1,0 +1,13 @@
+C:\Users\cjfac\source\repos\SisBecasWinForms\SisBecasWinForms\obj\Debug\SisBecasWinForms.csproj.AssemblyReference.cache
+C:\Users\cjfac\source\repos\SisBecasWinForms\SisBecasWinForms\obj\Debug\SisBecasWinForms.frmAspirantes.resources
+C:\Users\cjfac\source\repos\SisBecasWinForms\SisBecasWinForms\obj\Debug\SisBecasWinForms.Properties.Resources.resources
+C:\Users\cjfac\source\repos\SisBecasWinForms\SisBecasWinForms\obj\Debug\SisBecasWinForms.csproj.GenerateResource.cache
+C:\Users\cjfac\source\repos\SisBecasWinForms\SisBecasWinForms\obj\Debug\SisBecasWinForms.csproj.CoreCompileInputs.cache
+C:\Users\cjfac\source\repos\SisBecasWinForms\SisBecasWinForms\bin\Debug\SisBecasWinForms.exe.config
+C:\Users\cjfac\source\repos\SisBecasWinForms\SisBecasWinForms\bin\Debug\SisBecasWinForms.exe
+C:\Users\cjfac\source\repos\SisBecasWinForms\SisBecasWinForms\bin\Debug\SisBecasWinForms.pdb
+C:\Users\cjfac\source\repos\SisBecasWinForms\SisBecasWinForms\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\cjfac\source\repos\SisBecasWinForms\SisBecasWinForms\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\cjfac\source\repos\SisBecasWinForms\SisBecasWinForms\obj\Debug\SisBecas.45F5D4A7.Up2Date
+C:\Users\cjfac\source\repos\SisBecasWinForms\SisBecasWinForms\obj\Debug\SisBecasWinForms.exe
+C:\Users\cjfac\source\repos\SisBecasWinForms\SisBecasWinForms\obj\Debug\SisBecasWinForms.pdb
